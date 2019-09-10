@@ -1,0 +1,25 @@
+{
+  "name": "cloud-file-transfer",
+  "version": "1.0.0",
+  "description": "cloud file transfer - glosign",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "express",
+    "api",
+    "cosmosdb",
+    "azure"
+  ],
+  "author": "fecalemos",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "dotenv": "^8.1.0"
+  }
+}
